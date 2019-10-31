@@ -1,23 +1,23 @@
 # Site
-repository: sproogen/resume-theme
+repository: allanmarum/allanmarum.github.io
 # favicon: images/favicon.ico
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
+name: Allan Marconato Marum
+title: Control and Automation Engineer
+email: allan.marum@gmail.com
 website: www.github.com/sproogen/resume-theme
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+# twitter_username: facespics
+github_username:  allanmarum
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: chillwildlife
-linkedin_username: jameswgrant
+instagram_username: allanmarum
+linkedin_username: allanmarum
 # pinterest_username: jekyll
-youtube_username: globalmtb
+youtube_username: allanmarum
 # googleplus_username: +jekyll
 
 # About Section
