@@ -8,11 +8,20 @@
   description: | # this will include new lines to allow paragraphs
     A manufacture company needs its production systems running with the best performance and lowest unplanned stops. A good support and maintenance in its systems is inevitable to get this goal.
 - layout: left
-  company: ZF do Brasil
-  link: zf.com
-  job_title: System Analyst
-  dates: September 2019 - Present
+  company: Hollux IT Service
+  link: hollux.com.br
+  job_title: Automation Analyst
+  dates: April 2017 - September 2019
   quote: >
-    Solving manufacture systems problems with creativity and making systems improvements.
+    Acting solving automation and systems problems.
   description: | # this will include new lines to allow paragraphs
-    A manufacture company needs its production systems running with the best performance and lowest unplanned stops. A good support and maintenance in its systems is inevitable to get this goal.
+    Take care of some assembly line systems, made improvements and keep it running. 
+- layout: left
+  company: META Automacao
+  link: metaautomacao.com.br
+  job_title: Technical Seller
+  dates: March 2016 - March 2017
+  quote: >
+    Selling automation products and solutions. 
+  description: | # this will include new lines to allow paragraphs
+    A technical seller that sells a large catalog of products that include PLCs, SCADAs, automation solutions, sensor, valvels and so on. 
