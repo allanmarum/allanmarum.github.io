@@ -1,8 +1,8 @@
 - layout: top-middle
-  name: Super awesome project
-  link: github.com/sproogen
-  github: sproogen/resume-theme
+  name: EasyS7Conn
+  link: https://github.com/allanmarum/
+  github: allanmarum/easys7conn
   quote: >
-    This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+    A RESTFul API that allows user to connecto to a S7 PLC and easly aquire data from its data blocks. 
   description: | # this will include new lines to allow paragraphs
-    I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+    Snap7 is incredibel! But some people in Automation World had difficults with high level languages. So I decided to simplify Python-Snap7 to create an easy way to aquire data from Siemens S7 PLC. This project allow the user to run an simple app and request this data to a RESTFul API.
