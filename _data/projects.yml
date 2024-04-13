@@ -1,8 +1,0 @@
-- layout: top-middle
-  name: EasyS7Conn
-  link: https://github.com/allanmarum/
-  github: allanmarum/easys7conn
-  quote: >
-    A RESTFul API that allows user to connecto to a S7 PLC and easly aquire data from its data blocks. 
-  description: | # this will include new lines to allow paragraphs
-    Snap7 is incredibel! But some people in Automation World had difficults with high level languages. So I decided to simplify Python-Snap7 to create an easy way to aquire data from Siemens S7 PLC. This project allow the user to run an simple app and request this data to a RESTFul API.
